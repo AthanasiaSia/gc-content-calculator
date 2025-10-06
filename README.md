@@ -9,4 +9,4 @@ This script takes a DNA sequence as input and returns its GC percentage.
 ## Usage
 Example:
 Enter DNA sequence: ATGCGCTA
-GC Content: 50.0%
+GC Content: 50.00%
